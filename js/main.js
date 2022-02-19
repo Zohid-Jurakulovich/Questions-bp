@@ -28,5 +28,5 @@ console.log(range);
 let work = prompt("Input-group classi nima uchun ishlatilinadi");
 console.log(work);
 
-let badgeAlert = prompt("Alert va badge xossalarining farni nimada?")
+let badgeAlert = prompt("Alert va badge xossalarining farqi nimada?")
 console.log(badgeAlert);
