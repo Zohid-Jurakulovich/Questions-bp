@@ -7,8 +7,10 @@ console.log(breakpoint);
 let container = prompt("Container-fluid xossasi haqida ma'lumot bering");
 console.log(container);
 
-let typography = prompt("Typography nima?");
+let typography = prompt("Typography nima?"); 
 console.log(typography);
+//harflar va matnlarni oquvchiga turshunarli va aniq yetkazib berish san'ati hisoblanadi. font turlari, korinishi. Qisqa qilib aytganda , tipografiya matnimizni oquvchi uchun qulay korinishga olib keladi.
+
 
 let gutters = prompt("gutters nima?")
 console.log(gutters);
@@ -19,7 +21,7 @@ console.log(control);
 let checkbox = prompt("Checkbox va radio yaratish uchun ularning input elementiga qanday class beriladi?")
 console.log(checkbox);
 
-let isKnow = prompt("checkbox yoki radio elementlarini yonma-yon joylashtirishni bilasizmi?");
+let isKnow = prompt("checkbox yoki radio elementlarini yonma-yon joylashtirishni display xossa yordamisiz qilishni bilasizmi?");
 console.log(isKnow);
 
 let range = prompt("Range elementini sozlash uchun qaysi attributlardan foydalaniladi");
